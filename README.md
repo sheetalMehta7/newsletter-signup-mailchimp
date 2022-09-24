@@ -8,22 +8,21 @@
   
   
   
-  ## Live demo link
+## Live demo link
   Link: https://sleepy-depths-82489.herokuapp.com/
   
-  ## Images
+## Images
   
-  ### Landing page
+### Landing page
   ![](https://github.com/sheetalMehta7/newsletter-signup-mailchimp/blob/main/newsletter-signup-images/Screenshot%202022-09-08%20125445.jpg)
   
-   ### Success page
+### Success page
   ![](https://github.com/sheetalMehta7/newsletter-signup-mailchimp/blob/main/newsletter-signup-images/Screenshot%202022-09-08%20125319.jpg)
-  
-     ### Failure page
+
+### Failure page
   ![](https://github.com/sheetalMehta7/newsletter-signup-mailchimp/blob/main/newsletter-signup-images/Screenshot%202022-09-23%20200325.jpg)
   
-
- ### Backend Mailchimp 
+### Backend Mailchimp 
   ![](https://github.com/sheetalMehta7/newsletter-signup-mailchimp/blob/main/newsletter-signup-images/Screenshot%202022-09-23%20201302.jpg)
   
 
